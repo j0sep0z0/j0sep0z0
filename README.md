@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="https://github.com/user-attachments/assets/d8696757-12e7-4b6d-a59a-4c5aba7d8c11" style="width: 150px; height: auto;">
 
-<!--
-**j0sep0z0/j0sep0z0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# *Hi, I'm Jose 👋*
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## *Skills*
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,npm)
+
+<br>
+
+
+
+
+
+
