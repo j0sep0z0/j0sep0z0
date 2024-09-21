@@ -5,7 +5,7 @@
 <br>
 
 ## *Skills*
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,npm)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,npm,vite)
 
 <br>
 
