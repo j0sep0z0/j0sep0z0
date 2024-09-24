@@ -3,6 +3,8 @@
 ***Jose Pozo - Full Stack Developer***
 
 ---
+*Passionate full-stack junior developer with a strong foundation in web development fundamentals. Continuously seeking to expand my skill set and knowledge, I am driven to create innovative and efficient web solutions. My problem-solving skills and ability to work in a team allow me to collaborate effectively in agile development environments.*
+
 <br>
 
 ## *Skills*
