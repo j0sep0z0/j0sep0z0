@@ -5,7 +5,7 @@
 ## **Technical Skills:** ##
 
 * Programming Languages: JavaScript (JS), Node.js
-* Frameworks/Libraries: React, Tailwind CSS
+* Frameworks/Libraries: React, Tailwind CSS, Express.js
 * Front-End Development: HTML, CSS
 * Databases: MongoDB
 * Version Control: Git
