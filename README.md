@@ -13,7 +13,7 @@
 * Version Control: Git
 * Development Tools: GitHub, VS Code, npm, Vite
 * Additional Skills: Redux, TypeScript
-* Diseño: Figma
+* Design: Figma
 
 ---
 
