@@ -1,7 +1,7 @@
-<div style="background-image: url('https://github.com/user-attachments/assets/d8696757-12e7-4b6d-a59a-4c5aba7d8c11'); background-size: cover; background-position: center; padding: 20px;">
+![ItAlways](https://github.com/user-attachments/assets/90d1bd7a-6436-456e-98ee-1223e0e850ee)
   <h1>Jose Pozo</h1>
   <p>Passionate full-stack junior developer with a strong foundation in web development fundamentals. Continuously seeking to expand my skill set and knowledge, I am driven to create innovative and efficient web solutions. My problem-solving skills and ability to work in a team allow me to collaborate effectively in agile development environments.</p>
-</div>
+
 
 <br>
 
