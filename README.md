@@ -16,6 +16,7 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j0sep0z0&show_icons=true&theme=transparent) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0sep0z0&layout=compact&theme=transparent)
 
 
