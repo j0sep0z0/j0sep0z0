@@ -1,4 +1,4 @@
-![j0sep0z0-banner](https://github.com/user-attachments/assets/a908d0a3-ca3a-46b2-b6b7-279cd119146e)
+![j0eBanner](https://github.com/user-attachments/assets/ec357bb4-1832-4dcd-bcff-4832dbf0199a)
 
 ---
 
