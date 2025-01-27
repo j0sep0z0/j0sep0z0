@@ -1,4 +1,4 @@
-![j0eBanner](https://github.com/user-attachments/assets/d0281a22-d3b4-4903-9751-28dfa36669ec)
+![j0eBanner](https://github.com/user-attachments/assets/5beb00f5-3464-471f-96ea-e2a3ca77e34a)
 
 ---
 
@@ -18,6 +18,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j0sep0z0&show_icons=true&theme=transparent) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0sep0z0&layout=compact&theme=transparent)
+
 
 
 
