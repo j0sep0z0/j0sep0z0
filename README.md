@@ -5,11 +5,11 @@
 ## **Technical Skills:** ##
 
 * Programming Languages: JavaScript (JS), TypeScript, Node.js
-* Frameworks/Libraries: React, Next.js, Redux Toolkit, Tailwind CSS, Express.js
+* Frameworks/Libraries: React, Next.js, Redux Toolkit, Tailwind CSS, Express.js, Axios
 * Front-End Development: HTML, CSS
 * Build Tools: Vite, npm
-* Databases: MongoDB
-* Testing: Mocha, Chai.js
+* Databases: MongoDB, Mongoose
+* Testing: Jest, Mocha, Chai.js
 * Version Control: Git
 * Development Tools: GitHub, VS Code
 * Design: Figma
