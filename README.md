@@ -47,7 +47,7 @@
       <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" style="width:100%; max-width:40px;" />
     </td>
     <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/mongoose/880000" alt="Mongoose" style="width:100%; max-width:40px;" />
+      <img src="https://cdn.simpleicons.org/mongoose" alt="Mongoose" style="width:100%; max-width:40px;" />
     </td>
     <td width="9.09%" align="center">
       <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" style="width:100%; max-width:40px;" />
@@ -84,15 +84,20 @@
 
 <div align="center">
 
-| Category                          | Skills                                                         |
-|-----------------------------------|----------------------------------------------------------------|
-| 🖥️ Languages & Runtimes           | `JavaScript`, `TypeScript`, `Node.js`                          |
-| 🔗 Web Frameworks & Libraries     | `React`, `Next.js`, `Redux Toolkit`, `Tailwind CSS`, `Axios`   |
-| 📱 Mobile Frameworks              | `React Native`, `Expo`                                         |
-| ⚙️ Backend & APIs                 | `Express.js`, `MongoDB`, `Mongoose`, `AWS`, `Docker`           |
-| 🛠️ Build, Tooling & DevOps        | `Vite`, `npm`, `Git`, `GitHub`, `VS Code`                      |
-| 🧪 Testing & QA                   | `Jest`, `Mocha`, `Chai.js`                                     |
-| 🎨 Design & Prototyping           | `Figma`                                                        |
+| Categoría                              | Skills                                                      |
+|----------------------------------------|-------------------------------------------------------------|
+| 🖥️ Lenguajes & Entornos de Ejecución  | `JavaScript`, `TypeScript`, `Node.js`                       |
+| 🔗 Frameworks & Bibliotecas Web        | `React`, `Next.js`, `Tailwind CSS`                          |
+| 🏗️ Gestión de Estado                   | `Redux`, `Redux Toolkit`, `Zustand`                         |
+| 📱 Frameworks Móviles                  | `React Native`, `Expo`                                      |
+| ⚙️ Backend & APIs                      | `Express.js`                                                |
+| 🌐 Clientes HTTP & Utilidades          | `Axios`                                                     |
+| 🗄️ Bases de Datos                      | `MongoDB`, `Mongoose`, `DynamoDB`                           |
+| ☁️ Cloud & DevOps                      | `AWS`, `Docker`                                             |
+| 🛠️ Build & Herramientas de Desarrollo  | `Vite`, `npm`, `Git`, `GitHub`, `VS Code`                   |
+| 🧪 Testing & QA                        | `Jest`, `Mocha`, `Chai.js`                                  |
+| 🎨 Diseño & Prototipado               | `Figma`                                                     |
+
 
 </div>
 
