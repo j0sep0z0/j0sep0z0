@@ -1,119 +1,87 @@
-<p align="center">
-  
-![jpBannerGithub](https://github.com/user-attachments/assets/c4bf34ba-4533-44e9-8cfd-165d4c40ffe6)
+<h1 align="center">Hey 👋 I'm Jose Pozo</h1>
+<h3 align="center">Creative Full-Stack Developer | React · Next.js · Node.js · Expo</h3>
 
+<p align="center">
+  🚀 Turning ideas into intuitive, scalable, and beautifully crafted digital experiences.
 </p>
 
 ---
 
-<table align="center" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/next.js/ffffff" alt="Next.js" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/redux/764ABC" alt="Redux Toolkit" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/axios/5A29E4" alt="Axios" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/expo/4285F4" alt="Expo" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/express/4CAF50" alt="Express.js" style="width:100%; max-width:40px;" />
-    </td>
-  </tr>
-  <tr>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/mongoose" alt="Mongoose" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/jest/C21325" alt="Jest" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/mocha/8D6748" alt="Mocha" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/chai/A30701" alt="Chai.js" style="width:100%; max-width:40px;" />
-    </td>
-    <td width="9.09%" align="center">
-      <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" style="width:100%; max-width:40px;" />
-    </td>
-  </tr>
-</table>
-
-
-<h2 align="center">Technical Skills</h2>
+### 🧠 Tech Stack
 
 <div align="center">
 
-| Categoría                              | Skills                                                      |
-|----------------------------------------|-------------------------------------------------------------|
-| 🖥️ Lenguajes & Entornos de Ejecución  | `JavaScript`, `TypeScript`, `Node.js`                       |
-| 🔗 Frameworks & Bibliotecas Web        | `React`, `Next.js`, `Tailwind CSS`                          |
-| 🏗️ Gestión de Estado                   | `Redux`, `Redux Toolkit`, `Zustand`                         |
-| 📱 Frameworks Móviles                  | `React Native`, `Expo`                                      |
-| ⚙️ Backend & APIs                      | `Express.js`                                                |
-| 🌐 Clientes HTTP & Utilidades          | `Axios`                                                     |
-| 🗄️ Bases de Datos                      | `MongoDB`, `Mongoose`, `DynamoDB`                           |
-| ☁️ Cloud & DevOps                      | `AWS`, `Docker`                                             |
-| 🛠️ Build & Herramientas de Desarrollo  | `Vite`, `npm`, `Git`, `GitHub`, `VS Code`                   |
-| 🧪 Testing & QA                        | `Jest`, `Mocha`, `Chai.js`                                  |
-| 🎨 Diseño & Prototipado               | `Figma`                                                     |
+#### Frontend
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
 
+#### Mobile
+![React Native](https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+
+#### Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+#### Tools & Testing
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8d6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
+### 👨‍💻 About Me
+
+Hello, I'm **Jose**, a creative developer passionate about turning ideas into smooth and engaging user experiences.  
+I enjoy building efficient web applications that are not only functional but also visually appealing and centered around user needs.
+
+In my work, I prioritize **clean and maintainable code**, and I’m always focused on creating **scalable and accessible** solutions.  
+I love learning continuously and keeping up with web development trends — whether it’s mastering new frameworks or exploring modern design approaches.
+
+When I’m not programming, you can find me **enjoying outdoor activities, playing sports, or spending time with friends**.  
+Those moments help me recharge and maintain a healthy balance between creativity, focus, and life.
+
+---
+
+### 📊 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j0sep0z0&show_icons=true&theme=transparent" alt="GitHub Stats" />   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0sep0z0&layout=compact&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=j0sep0z0&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0sep0z0&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=j0sep0z0&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
+---
 
+### 🌐 Connect with me
 
+<p align="center">
+  <a href="https://github.com/j0sep0z0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/j0sep0z0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:j0sep0z0@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-
-
-
-
+<p align="center">
+  <i>“Code is creative writing for the future.”</i>
+</p>
