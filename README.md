@@ -75,8 +75,8 @@ Those moments help me recharge and maintain a healthy balance between creativity
   <a href="https://www.linkedin.com/in/j0sep0z0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:j0sep0z0@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  <a href="mailto:josepozovilalta@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
