@@ -56,12 +56,12 @@ Those moments help me recharge and maintain a healthy balance between creativity
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j0sep0z0&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0sep0z0&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=j0sep0z0&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=j0sep0z0&layout=compact&theme=tokyonight&hide_border=true&v=1" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=j0sep0z0&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=j0sep0z0&theme=tokyonight&hide_border=true&v=1" height="165" />
 </p>
 
 ---
