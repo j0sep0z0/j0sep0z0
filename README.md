@@ -5,7 +5,7 @@ Full Stack Developer • Web & Mobile Products • AI Integrations
 </h3>
 
 <p align="center">
-Building scalable web and mobile applications with modern JavaScript technologies, clean architecture, and a strong focus on user experience.
+Building scalable applications with modern JavaScript and AI technologies.
 </p>
 
 ---
@@ -37,13 +37,13 @@ Building scalable web and mobile applications with modern JavaScript technologie
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Jose**, a Full Stack Developer passionate about turning ideas into clean and engaging digital products.
+Hi, I'm Jose, a Full Stack Developer focused on building modern web and mobile products.
 
-I enjoy building efficient web and mobile applications that are not only functional but also provide intuitive and visually appealing user experiences. I mainly work with **React, TypeScript and modern JavaScript technologies**, focusing on writing clean, maintainable code and creating scalable solutions.
+I mainly work with React, TypeScript, Node.js, Next.js and Expo, creating scalable applications with clean architecture and strong attention to user experience.
 
-Before transitioning into software development, I spent several years working in **operations and team leadership roles**. That experience shaped my approach to problem solving, teamwork and responsibility when building software products.
+Before transitioning into software development, I spent several years working in operations and team leadership roles. That experience shaped how I approach problem solving, teamwork and responsibility when building digital products.
 
-Outside of programming, I enjoy outdoor activities, playing sports and spending time with friends. Those moments help me recharge and maintain a healthy balance between **focus, creativity and problem solving**, both in life and in my work as a developer.
+Outside of programming, I enjoy outdoor activities, playing sports and spending time with friends. Those moments help me recharge and maintain a healthy balance between focus, creativity and problem solving.
 
 ---
 
